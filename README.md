@@ -45,18 +45,6 @@ Content clustering recommendations:
 
 ---
 
-# 📊 Dashboard Features
-
-- SEO score visualization (0–100)
-- Color-coded performance indicators
-- Interactive charts using Recharts
-- SEO issues list
-- AI recommendations
-- Audit history tracking
-- Reports & aggregated analytics
-
----
-
 # 🛠️ Tech Stack
 
 ## Frontend
@@ -77,21 +65,5 @@ Content clustering recommendations:
 - Groq API
 - llama-3.3-70b-versatile
 
-## Storage
-- In-memory Python list/dictionary storage
-
----
-
-# 🎨 UI Features
-
-- Dark theme UI
-- Glassmorphism cards
-- Gradient headings
-- Smooth animations
-- Responsive design
-- Loading spinners
-- Interactive charts
-
----
 
 
